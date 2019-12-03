@@ -1,10 +1,13 @@
-# Opportunity-Insights
-This project focuses on the Opportunity Insights Dataset to derive some Economic Information and Social Science
+# UN Data for Health and other factors by countries
 
-The smart people from Havard published the [Opportunity Atlas](https://www.opportunityatlas.org), where they visualized the Social Mobility across the States. 
+This project focuses on the dataset of the United Nations and other public available datasets to derive some Information and correlations between key factors. 
 
-This is a super interesting dataset, since it tackles the society and it is also possible to derive some information why some people/ kids have worse outcomes than others. 
+Due to the datasets of [Our World in Data](https://ourworldindata.org), where they made super interesting facts about the world available for everyone to use. This data is trusted by many organizations such as The Ney York Times, Washington Post but even top educational facilities such as Stanford, Cambridge or MIT.
 
-This work will try to cluster this data and derive some action plans to have a more equal society.
+They published literally everything you can think about from country data, i.e. what is the GDP per capita for the countries, what is the amount of vegetables consumed per capita or even how many cigarettes are consumed a day per capita in the respective country. 
 
-The work is well described in the Jupyter Notebook, so feel free to just start this one.
+Hence there is a shit ton of potential in this dataset and I try to find some correlations, especially between nutrition and Health.
+
+This work will try to cluster this data and check whether some countries suffer from the same problems based on their similiar factors.
+
+The work is (hopefully) well described in the Jupyter Notebook *Opportunity-Insights.ipynb*, so feel free to just start this one and explore the world based on data.
